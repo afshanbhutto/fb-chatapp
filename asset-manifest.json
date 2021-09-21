@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fb-chatapp/static/css/main.371f6a7f.chunk.css",
+    "main.js": "/fb-chatapp/static/js/main.3d0c8c70.chunk.js",
+    "main.js.map": "/fb-chatapp/static/js/main.3d0c8c70.chunk.js.map",
+    "runtime-main.js": "/fb-chatapp/static/js/runtime-main.b9a57965.js",
+    "runtime-main.js.map": "/fb-chatapp/static/js/runtime-main.b9a57965.js.map",
+    "static/js/2.d754f38b.chunk.js": "/fb-chatapp/static/js/2.d754f38b.chunk.js",
+    "static/js/2.d754f38b.chunk.js.map": "/fb-chatapp/static/js/2.d754f38b.chunk.js.map",
+    "static/js/3.562e3c71.chunk.js": "/fb-chatapp/static/js/3.562e3c71.chunk.js",
+    "static/js/3.562e3c71.chunk.js.map": "/fb-chatapp/static/js/3.562e3c71.chunk.js.map",
+    "index.html": "/fb-chatapp/index.html",
+    "static/css/main.371f6a7f.chunk.css.map": "/fb-chatapp/static/css/main.371f6a7f.chunk.css.map",
+    "static/js/2.d754f38b.chunk.js.LICENSE.txt": "/fb-chatapp/static/js/2.d754f38b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9a57965.js",
+    "static/js/2.d754f38b.chunk.js",
+    "static/css/main.371f6a7f.chunk.css",
+    "static/js/main.3d0c8c70.chunk.js"
+  ]
+}
